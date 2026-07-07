@@ -1,6 +1,6 @@
-# Assignment 4 - Permutations
+# DSA Assignment 4 - Permutations
 
-## Problem
+## Problem Statement
 Given an array of distinct integers, return all possible permutations.
 
 ## Language
@@ -14,3 +14,11 @@ O(n × n!)
 
 ## Space Complexity
 O(n)
+
+## Code Screenshot
+
+![Code](Screenshots/code.png)
+
+## Output Screenshot
+
+![Output](Screenshots/output.png)
